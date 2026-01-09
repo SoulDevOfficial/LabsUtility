@@ -8,4 +8,4 @@ Inspired by "LabsCore", our program provides hundreds of useful features for you
 >
 >[Our Website](https://github.com/SoulDevOfficial/LabsUtility)
 >
->[Credits](https://github.com/SoulDevOfficial/LabsUtility)
+>[Credits](View/Credits.md)

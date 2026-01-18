@@ -6,7 +6,9 @@ LabsUtility is a user companion for taking care of annying tasks and jobs. With 
 # How To Copy
 At this time unless given explicit permission from the developer (soulwatcher._), copying code, directories, files, or any other content in this repository for commercial, personal, private, or public use is prohibited. Full release and legal terms for copying may release soon. Violating these current terms will result in violating international copyright laws which LabsUtility and related services are under. If any user, company, or other entity is found violating these terms, restrictions and legal actions can and will be taken.
 # Current Commands
-- Commands are not currently listed but will be soon.
+- /ban (Ban member)
+- /base64-decode
+- /base64-encode
 
 # Official Links
 >[Main Developer](https://github.com/SoulDevOfficial)
